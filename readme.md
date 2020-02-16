@@ -1,4 +1,4 @@
-## Aumentar el límite de cargar con Plugin Upload Max File Size
+## Aumentar el límite de carga con Plugin Upload Max File Size
 
 
 1- Instalar y activar pluugin <a href="https://es.wordpress.org/plugins/upload-max-file-size/">Increase Upload Max File Size</a>.
